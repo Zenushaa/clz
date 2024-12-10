@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nirka\\source\\repos\\test01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F5DA81F-961F-48DB-9414-117E43DDDA4E}|test01\\test01.csproj|c:\\users\\nirka\\source\\repos\\test01\\test01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F5DA81F-961F-48DB-9414-117E43DDDA4E}|test01\\test01.csproj|solutionrelative:test01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5DA81F-961F-48DB-9414-117E43DDDA4E}|test01\\test01.csproj|c:\\users\\nirka\\source\\repos\\test01\\test01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5DA81F-961F-48DB-9414-117E43DDDA4E}|test01\\test01.csproj|solutionrelative:test01\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F5DA81F-961F-48DB-9414-117E43DDDA4E}|test01\\test01.csproj|c:\\users\\nirka\\source\\repos\\test01\\test01\\test01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5F5DA81F-961F-48DB-9414-117E43DDDA4E}|test01\\test01.csproj|solutionrelative:test01\\test01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F5DA81F-961F-48DB-9414-117E43DDDA4E}|test01\\test01.csproj|c:\\users\\nirka\\source\\repos\\test01\\test01\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F5DA81F-961F-48DB-9414-117E43DDDA4E}|test01\\test01.csproj|solutionrelative:test01\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5DA81F-961F-48DB-9414-117E43DDDA4E}|test01\\test01.csproj|c:\\users\\nirka\\source\\repos\\test01\\test01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5DA81F-961F-48DB-9414-117E43DDDA4E}|test01\\test01.csproj|solutionrelative:test01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F5DA81F-961F-48DB-9414-117E43DDDA4E}|test01\\test01.csproj|c:\\users\\nirka\\source\\repos\\test01\\test01\\test01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -22,44 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\appsettings.json",
+              "RelativeDocumentMoniker": "test01\\appsettings.json",
+              "ToolTip": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\appsettings.json",
+              "RelativeToolTip": "test01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T02:16:02.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\Program.cs",
+              "RelativeDocumentMoniker": "test01\\Program.cs",
+              "ToolTip": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\Program.cs",
+              "RelativeToolTip": "test01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:11:09.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "test01\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "test01\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:18:58.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "students.cs",
               "DocumentMoniker": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\students.cs",
               "RelativeDocumentMoniker": "test01\\students.cs",
               "ToolTip": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\students.cs",
               "RelativeToolTip": "test01\\students.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T02:31:39.894Z"
+              "WhenOpened": "2024-11-19T02:31:39.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "test01.csproj",
               "DocumentMoniker": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\test01.csproj",
               "RelativeDocumentMoniker": "test01\\test01.csproj",
               "ToolTip": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\test01.csproj",
               "RelativeToolTip": "test01\\test01.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-12T02:31:59.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "test01",
               "DocumentMoniker": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\test01.csproj",
               "RelativeDocumentMoniker": "test01\\test01.csproj",
               "ToolTip": "C:\\Users\\nirka\\source\\repos\\test01\\test01\\test01.csproj",
               "RelativeToolTip": "test01\\test01.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T02:28:52.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T02:28:52.27Z"
             }
           ]
         }
